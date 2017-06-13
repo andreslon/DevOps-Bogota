@@ -1,0 +1,9 @@
+D:\Repos\DevOps-Bogota\TicTacToe\TicTacToe.UITests\bin\Release\TicTacToe.UITests.dll
+D:\Repos\DevOps-Bogota\TicTacToe\TicTacToe.UITests\bin\Release\TicTacToe.UITests.pdb
+D:\Repos\DevOps-Bogota\TicTacToe\TicTacToe.UITests\bin\Release\nunit.framework.dll
+D:\Repos\DevOps-Bogota\TicTacToe\TicTacToe.UITests\bin\Release\Xamarin.UITest.dll
+D:\Repos\DevOps-Bogota\TicTacToe\TicTacToe.UITests\bin\Release\nunit.framework.xml
+D:\Repos\DevOps-Bogota\TicTacToe\TicTacToe.UITests\bin\Release\Xamarin.UITest.xml
+D:\Repos\DevOps-Bogota\TicTacToe\TicTacToe.UITests\obj\Release\TicTacToe.UITests.csprojResolveAssemblyReference.cache
+D:\Repos\DevOps-Bogota\TicTacToe\TicTacToe.UITests\obj\Release\TicTacToe.UITests.dll
+D:\Repos\DevOps-Bogota\TicTacToe\TicTacToe.UITests\obj\Release\TicTacToe.UITests.pdb
